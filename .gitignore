@@ -4,7 +4,7 @@ node_modules/
 z*
 
 #「.env」
-*.env
+.env
 
 #「artifacts」ディレクトリ
-artifacts/
+/artifacts/
