@@ -1,1 +1,10 @@
 node_modules/
+
+#「z」ではじまるファイルは追跡しない
+z*
+
+#「.env」
+*.env
+
+#「artifacts」ディレクトリ
+artifacts/
